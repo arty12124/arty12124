@@ -26,6 +26,8 @@
   </a>
 </p>
 
+![snake gif](https://github.com/arty12124/arty12124/blob/output/github-snake-dark.svg)
+
 ---
 
 ### ⚡ Обо мне
