@@ -61,7 +61,6 @@
 </p>
 
 ---
-![Snake animation](https://github.com/arty12124/snk/blob/output/github-contribution-grid-snake.svg)
 
 ### 🐍 Змейка по коммит-календарю
 <p align="center">
