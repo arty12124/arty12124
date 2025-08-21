@@ -2,36 +2,62 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Artysolo&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 </p>
 
-<h3 align="center">
+<div align="center" style="margin-top: -30px;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=25&duration=3000&pause=500&color=A855F7&center=true&vCenter=true&width=600&lines=Developer+%26+AI+Enthusiast;Beautiful+UI+%26+Clean+Code;Python+%7C+React+%7C+AI+Generation;Always+learning+new+things" alt="Typing SVG" />
-</h3>
+</div>
 
-<p align="center">
-  🚀 <strong>Разработчик</strong> • 🤖 <strong>AI / Генерация изображений</strong> • 🎨 <strong>Красивый UI и чистый код</strong>
-</p>
+<br>
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center" style="padding: 20px;">
+        <img src="https://img.icons8.com/fluency/48/laptop-coding.png" alt="Developer"/>
+        <br><br>
+        <h3>🚀 Разработчик</h3>
+        <p><em>Creating amazing solutions</em></p>
+      </td>
+      <td align="center" style="padding: 20px;">
+        <img src="https://img.icons8.com/fluency/48/artificial-intelligence.png" alt="AI"/>
+        <br><br>
+        <h3>🤖 AI Enthusiast</h3>
+        <p><em>Stable Diffusion & ML</em></p>
+      </td>
+      <td align="center" style="padding: 20px;">
+        <img src="https://img.icons8.com/fluency/48/design.png" alt="UI Design"/>
+        <br><br>
+        <h3>🎨 UI Designer</h3>
+        <p><em>Beautiful & Clean Code</em></p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
 
 <div align="center">
   <a href="https://github.com/arty12124">
-    <img src="https://custom-icon-badges.demolab.com/badge/Profile%20Views-1.2K+-blueviolet?style=for-the-badge&logo=eye&logoColor=white&labelColor=6366f1" alt="profile views" />
+    <img src="https://img.shields.io/badge/👁️_Profile_Views-1.2K+-blueviolet?style=for-the-badge&logoColor=white&labelColor=6366f1&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTggMkM0LjUgMiAxLjc3IDQuNTggMS43NyA4UzQuNSAxNCA4IDE0czYuMjMtNiA2LjIzLTZTMTEuNSAyIDggMnptMCA5Yy0xLjY2IDAtMy0xLjM0LTMtM3MxLjM0LTMgMy0zIDMgMS4zNCAzIDMtMS4zNCAzLTMgM3ptMC01Yy0xLjEgMC0yIC45LTIgMnMuOSAyIDIgMiAyLS45IDItMi0uOS0yLTItMnoiIGZpbGw9IndoaXRlIi8+Cjwvc3ZnPgo=" alt="profile views" />
   </a>
   <a href="https://github.com/arty12124?tab=followers">
-    <img src="https://custom-icon-badges.demolab.com/github/followers/arty12124?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white" alt="followers" />
+    <img src="https://img.shields.io/badge/👥_Followers-Follow_Me-236ad3?style=for-the-badge&logo=github&logoColor=white&labelColor=1155ba" alt="followers" />
   </a>
   <a href="https://github.com/arty12124?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/arty12124?color=F59E0B&style=for-the-badge&labelColor=EF4444&logo=star&logoColor=white"/></a>
+    <img src="https://img.shields.io/badge/⭐_Total_Stars-Check_Repos-F59E0B?style=for-the-badge&labelColor=EF4444&logo=star&logoColor=white" alt="stars"/>
+  </a>
 </div>
 
 <br>
 
 <div align="center">
   <a href="mailto:yourmail@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&label=Write%20me" alt="gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-Write_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=DC2626" alt="gmail"/>
   </a>
   <a href="https://t.me/arty12124">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&label=@arty12124" alt="telegram"/>
+    <img src="https://img.shields.io/badge/Telegram-@arty12124-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0EA5E9" alt="telegram"/>
   </a>
   <a href="https://github.com/arty12124">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&label=Follow" alt="github"/>
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=374151" alt="github"/>
   </a>
 </div>
 
@@ -43,15 +69,33 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> ⚡ Обо мне
 
-<img align="right" alt="Coding GIF" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzU1OWRmZjBkNzE4YWZkNTJlN2Y3OWE1MTVmYTYzM2Y2ZjRmZjEzYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
-
-🧩 **Делаю удобные интерфейсы и практичные инструменты**  
-🤖 **Работаю с AI / генерацией изображений** (Stable Diffusion, кастомные пайплайны)  
-🐍 **Люблю Python** (GUI, API, автоматизация)  
-🎨 **Визуал через Figma + Photoshop**  
-🎯 **Цель** — проекты, которые радуют пользователей и приносят доход  
-💡 **Всегда изучаю** новые технологии и подходы  
-🌟 **Стремлюсь к совершенству** в каждой строке кода  
+<div align="center">
+  <table>
+    <tr>
+      <td width="60%">
+        
+### 💫 Кто я?
+        
+**🧩 Делаю удобные интерфейсы и практичные инструменты**  
+Каждый проект — это возможность создать что-то особенное
+        
+**🤖 Работаю с AI / генерацией изображений**  
+Stable Diffusion, кастомные пайплайны, ML-решения
+        
+**🐍 Люблю Python**  
+GUI, API, автоматизация — всё, что упрощает жизнь
+        
+**🎨 Визуал через Figma + Photoshop**  
+Красота в каждом пикселе
+        
+**🎯 Цель** — проекты, которые радуют пользователей и приносят доход  
+**💡 Всегда изучаю** новые технологии и подходы  
+**🌟 Стремлюсь к совершенству** в каждой строке кода
+        <img align="center" alt="Coding GIF" width="100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzU1OWRmZjBkNzE4YWZkNTJlN2Y3OWE1MTVmYTYzM2Y2ZjRmZjEzYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" 
+      
+    
+  </table>
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -164,4 +208,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
 </p>
-
