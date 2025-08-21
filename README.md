@@ -168,22 +168,22 @@ GUI, API, автоматизация — всё, что упрощает жиз�
 
 <div align="center">
 
-### 💌 **Готов к новым проектам и сотрудничеству!**
+###  **Готов к новым проектам и сотрудничеству!**
 
 <table>
   <tr>
     <td align="center" width="200">
-      <a href="https://t.me/arty12124">
+      <a href="https://t.me/artysolo">
         <img src="https://img.icons8.com/color/96/000000/telegram-app--v1.png" width="80"/>
         <br><strong>Telegram</strong>
-        <br><sub>@arty12124</sub>
+        <br><sub>@artysolo</sub>
       </a>
     </td>
     <td align="center" width="200">
-      <a href="mailto:yourmail@gmail.com">
+      <a href="wifiisnew24@gmail.com">
         <img src="https://img.icons8.com/fluency/96/000000/gmail-new.png" width="80"/>
         <br><strong>Email</strong>
-        <br><sub>yourmail@gmail.com</sub>
+        <br><sub>wifiisnew24@gmail.com</sub>
       </a>
     </td>
     <td align="center" width="200">
@@ -198,8 +198,8 @@ GUI, API, автоматизация — всё, что упрощает жиз�
 
 ### 🌟 **Интересные проекты? Есть идеи? Давайте обсудим!**
 
-[![Telegram](https://img.shields.io/badge/Telegram-Join%20Chat-blue?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0088cc)](https://t.me/arty12124)
-[![Email](https://img.shields.io/badge/Email-Send%20Message-red?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:yourmail@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-Join%20Chat-blue?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0088cc)](https://t.me/artysolo)
+[![Email](https://img.shields.io/badge/Email-Send%20Message-red?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](wifiisnew24@gmail.com)
 
 </div>
 
