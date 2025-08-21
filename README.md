@@ -3,7 +3,7 @@
 </p>
 
 <div align="center" style="margin-top: -30px;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=25&duration=3000&pause=500&color=A855F7&center=true&vCenter=true&width=600&lines=Developer+%26+AI+Enthusiast;Beautiful+UI+%26+Clean+Code;Python+%7C+React+%7C+AI+Generation;Always+learning+new+things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=25&duration=3000&pause=500&color=A855F7&center=true&vCenter=true&width=600&lines=Developer,+AI,+Enthusiast;Beautiful+UI,+Clean+Code;Python+%7C+React+%7C+AI+Generation;Always+learning+new+things" alt="Typing SVG" />
 </div>
 
 <br>
@@ -67,39 +67,37 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> ⚡ Обо мне
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">  Обо мне
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="60%">
-        
-### 💫 Кто я?
-        
-**🧩 Делаю удобные интерфейсы и практичные инструменты**  
-Каждый проект — это возможность создать что-то особенное
-        
-**🤖 Работаю с AI / генерацией изображений**  
-Stable Diffusion, кастомные пайплайны, ML-решения
-        
-**🐍 Люблю Python**  
-GUI, API, автоматизация — всё, что упрощает жизнь
-        
-**🎨 Визуал через Figma + Photoshop**  
-Красота в каждом пикселе
-        
-**🎯 Цель** — проекты, которые радуют пользователей и приносят доход  
-**💡 Всегда изучаю** новые технологии и подходы  
-**🌟 Стремлюсь к совершенству** в каждой строке кода
-        <img align="center" alt="Coding GIF" width="100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzU1OWRmZjBkNzE4YWZkNTJlN2Y3OWE1MTVmYTYzM2Y2ZjRmZjEzYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" 
-      
-    
-  </table>
+
+💫 Кто я?
+
+🧩 **Делаю удобные интерфейсы и практичные инструменты**  
+Каждый проект — это возможность создать что-то особенное  
+
+🤖 **Работаю с AI / генерацией изображений**  
+Stable Diffusion, кастомные пайплайны, ML-решения  
+
+🐍 **Люблю Python**  
+GUI, API, автоматизация — всё, что упрощает жизнь  
+
+🎨 **Визуал через Figma + Photoshop**  
+Красота в каждом пикселе  
+
+🎯 **Цель** — проекты, которые радуют пользователей и приносят доход  
+💡 **Всегда изучаю** новые технологии и подходы  
+🌟 **Стремлюсь к совершенству** в каждой строке кода  
+
 </div>
+
+
+
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> 🛠️ Навыки
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">  Навыки
 
 <div align="center">
 
@@ -133,7 +131,7 @@ GUI, API, автоматизация — всё, что упрощает жиз�
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/> 📊 Статистика GitHub
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>  Статистика GitHub
 
 <div align="center">
   <a href="https://github.com/arty12124">
@@ -166,7 +164,7 @@ GUI, API, автоматизация — всё, что упрощает жиз�
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"> 📬 Свяжитесь со мной
+## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">  Свяжитесь со мной
 
 <div align="center">
 
