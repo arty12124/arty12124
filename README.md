@@ -1,17 +1,13 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="banner-dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="banner-light.png">
-    <img alt="Artysolo banner" src="banner-dark.png" width="100%" />
-  </picture>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Artysolo&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 </p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=600&lines=Привет%2C+я+Artysolo+👋;Developer+%26+AI+Enthusiast;Beautiful+UI+%26+Clean+Code" alt="Typing SVG" />
-</h1>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=25&duration=3000&pause=500&color=A855F7&center=true&vCenter=true&width=600&lines=Developer+%26+AI+Enthusiast;Beautiful+UI+%26+Clean+Code;Python+%7C+React+%7C+AI+Generation;Always+learning+new+things" alt="Typing SVG" />
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Разработчик+•+AI+%2F+Генерация+изображений+•+Красивый+UI+и+чистый+код" alt="Subtitle" />
+  🚀 <strong>Разработчик</strong> • 🤖 <strong>AI / Генерация изображений</strong> • 🎨 <strong>Красивый UI и чистый код</strong>
 </p>
 
 <div align="center">
@@ -126,18 +122,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🐍 Змейка по коммит-календарю
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arty12124/arty12124/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arty12124/arty12124/output/snake.svg" />
-    <img alt="snake animation" src="https://raw.githubusercontent.com/arty12124/arty12124/output/snake.svg" />
-  </picture>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"> 📬 Свяжитесь со мной
 
 <div align="center">
@@ -177,14 +161,14 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+</p>
 
 <div align="center">
   
 ### ⭐ **Если мои проекты оказались полезными, поставьте звёздочку!** ⭐
 
 **✨ "Строгий неон — made by Artysolo" ✨**
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Спасибо+за+внимание+к+моему+профилю!;Thanks+for+visiting+my+profile!;Coding+is+art%2C+and+I'm+the+artist+🎨" alt="Footer" />
 
 </div>
