@@ -36,32 +36,22 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/arty12124">
-    <img src="https://img.shields.io/badge/👁️_Profile_Views-1.2K+-blueviolet?style=for-the-badge&logoColor=white&labelColor=6366f1&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTggMkM0LjUgMiAxLjc3IDQuNTggMS43NyA4UzQuNSAxNCA4IDE0czYuMjMtNiA2LjIzLTZTMTEuNSAyIDggMnptMCA5Yy0xLjY2IDAtMy0xLjM0LTMtM3MxLjM0LTMgMy0zIDMgMS4zNCAzIDMtMS4zNCAzLTMgM3ptMC01Yy0xLjEgMC0yIC45LTIgMnMuOSAyIDIgMiAyLS45IDItMi0uOS0yLTItMnoiIGZpbGw9IndoaXRlIi8+Cjwvc3ZnPgo=" alt="profile views" />
-  </a>
-  <a href="https://github.com/arty12124?tab=followers">
-    <img src="https://img.shields.io/badge/👥_Followers-Follow_Me-236ad3?style=for-the-badge&logo=github&logoColor=white&labelColor=1155ba" alt="followers" />
-  </a>
-  <a href="https://github.com/arty12124?tab=repositories&sort=stargazers">
-    <img src="https://img.shields.io/badge/⭐_Total_Stars-Check_Repos-F59E0B?style=for-the-badge&labelColor=EF4444&logo=star&logoColor=white" alt="stars"/>
-  </a>
+  <p>
+    <a href="https://github.com/arty12124">
+      <img src="https://img.shields.io/badge/👁️_Profile_Views-1.2K+-blueviolet?style=for-the-badge&logoColor=white&labelColor=6366f1&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTggMkM0LjUgMiAxLjc3IDQuNTggMS43NyA4UzQuNSAxNCA4IDE0czYuMjMtNiA2LjIzLTZTMTEuNSAyIDggMnptMCA5Yy0xLjY2IDAtMy0xLjM0LTMtM3MxLjM0LTMgMy0zIDMgMS4zNCAzIDMtMS4zNCAzLTMgM3ptMC01Yy0xLjEgMC0yIC45LTIgMnMuOSAyIDIgMiAyLS45IDItMi0uOS0yLTItMnoiIGZpbGw9IndoaXRlIi8+Cjwvc3ZnPgo=" alt="profile views" />
+    </a>
+    <img width="10"/>
+    <a href="https://github.com/arty12124?tab=followers">
+      <img src="https://img.shields.io/badge/👥_Followers-Follow_Me-236ad3?style=for-the-badge&logo=github&logoColor=white&labelColor=1155ba" alt="followers" />
+    </a>
+    <img width="10"/>
+    <a href="https://github.com/arty12124?tab=repositories&sort=stargazers">
+      <img src="https://img.shields.io/badge/⭐_Total_Stars-Check_Repos-F59E0B?style=for-the-badge&labelColor=EF4444&logo=star&logoColor=white" alt="stars"/>
+    </a>
+  </p>
 </div>
 
-<br>
 
-<div align="center">
-  <a href="mailto:yourmail@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Write_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=DC2626" alt="gmail"/>
-  </a>
-  <a href="https://t.me/arty12124">
-    <img src="https://img.shields.io/badge/Telegram-@arty12124-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0EA5E9" alt="telegram"/>
-  </a>
-  <a href="https://github.com/arty12124">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=374151" alt="github"/>
-  </a>
-</div>
-
-<br>
 
 ![snake gif](https://github.com/arty12124/arty12124/blob/output/github-snake-dark.svg)
 
