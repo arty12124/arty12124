@@ -7,6 +7,10 @@
 </div>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/arty12124/arty12124/main/metrics.header.svg" width="100%" alt="profile info card"/>
+</p>
+
+<p align="center">
   <a href="https://github.com/arty12124">
     <img src="https://komarev.com/ghpvc/?username=arty12124&style=for-the-badge&color=8B5CF6&label=Profile%20Views" alt="profile views"/>
   </a>
