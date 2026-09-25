@@ -25,6 +25,7 @@
   <a href="#skills">Навыки</a> •
   <a href="#stats">Статистика</a> •
   <a href="#snake">Активность</a> •
+  <a href="#graph3d">3D-график</a> •
   <a href="#trophies">Трофеи</a> •
   <a href="#contact">Контакты</a>
 </p>
@@ -158,6 +159,17 @@ const arty = {
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/arty12124/arty12124/output/github-snake-dark.svg" alt="snake animation"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=4"/>
+</p>
+
+<a id="graph3d"></a>
+## 🧊 3D-график вкладов
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/arty12124/arty12124/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph"/>
 </p>
 
 <p align="center">
