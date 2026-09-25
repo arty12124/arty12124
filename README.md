@@ -73,6 +73,17 @@ const arty = {
 };
 ```
 
+<a id="graph3d"></a>
+## 🧊 3D-график вкладов
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/arty12124/arty12124/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=4"/>
+</p>
+
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote"/>
 </p>
