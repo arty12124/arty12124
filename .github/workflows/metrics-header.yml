@@ -1,0 +1,20 @@
+name: Metrics Header
+
+on:
+  schedule:
+    - cron: "0 6 * * *"   # обновление раз в день в 06:00 UTC
+  workflow_dispatch:        # запуск вручную из вкладки Actions
+
+permissions:
+  contents: write
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.header.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: "header"
+          config_timezone: Europe/Moscow
