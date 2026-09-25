@@ -33,32 +33,12 @@
 <br>
 
 <a id="about"></a>
-## 👋 Обо мне
+## Обо мне
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/fluency/60/laptop-coding.png" alt="Developer"/>
-      <br><b>Разработчик</b>
-      <br><sub>Создаю удобные решения</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/fluency/60/artificial-intelligence.png" alt="AI"/>
-      <br><b>AI Enthusiast</b>
-      <br><sub>Stable Diffusion & ML</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/fluency/60/design.png" alt="UI Design"/>
-      <br><b>UI Designer</b>
-      <br><sub>Красиво и чисто</sub>
-    </td>
-  </tr>
-</table>
-
-> 🧩 Делаю удобные интерфейсы и практичные инструменты — каждый проект это возможность создать что-то особенное.
-> 🤖 Работаю с AI и генерацией изображений: Stable Diffusion, кастомные пайплайны, ML-решения.
-> 🐍 Люблю Python: GUI, API, автоматизация — всё, что упрощает жизнь.
-
+> [!NOTE]
+> **Текущий вектор развития**
+> * **Бэкенд и алгоритмизация:** структуры данных, оптимизация и архитектурные паттерны.
+> * **Инженерия:** освоение новых языков программирования и актуального стека под конкретные задачи.
 
 <a id="graph3d"></a>
 
@@ -156,17 +136,6 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/arty12124/arty12124/output/github-snake-dark.svg" alt="snake animation"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=4"/>
-</p>
-
-<a id="graph3d"></a>
-## 🧊 3D-график вкладов
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/arty12124/arty12124/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph"/>
 </p>
 
 <p align="center">
