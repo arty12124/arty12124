@@ -1,14 +1,10 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Arty&fontSize=46&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Developer%20%7C%20AI%20Enthusiast%20%7C%20UI%20Designer&descAlignY=55&descAlign=50"/>
+  <img src="https://raw.githubusercontent.com/arty12124/arty12124/main/metrics.header.svg" width="100%" alt="profile info card"/>
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=24&duration=3000&pause=500&color=A855F7&center=true&vCenter=true&width=650&lines=Delivering+clean%2C+modern+interfaces;Python+%7C+React+%7C+AI+Generation;Stable+Diffusion+%26+ML+pipelines;Always+shipping%2C+always+learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=24&duration=3000&pause=500&color=38BDF8&center=true&vCenter=true&width=650&lines=Delivering+clean%2C+modern+interfaces;Java+%7C+C%2B%2B+%7C+Go;Stable+Diffusion+%26+ML+pipelines;Always+shipping%2C+always+learning" alt="Typing SVG" />
 </div>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/arty12124/arty12124/main/metrics.header.svg" width="100%" alt="profile info card"/>
-</p>
 
 <p align="center">
   <a href="https://github.com/arty12124">
