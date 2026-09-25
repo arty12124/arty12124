@@ -1,9 +1,15 @@
+<div align="center">
+  <img width="650" src="https://raw.githubusercontent.com/arty12124/arty12124/main/assets/terminal-bar.svg" alt=""/>
+</div>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/arty12124/arty12124/main/metrics.header.svg" width="100%" alt="profile info card"/>
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=24&duration=3000&pause=500&color=38BDF8&center=true&vCenter=true&width=650&lines=Delivering+clean%2C+modern+interfaces;Java+%7C+C%2B%2B+%7C+Go;Stable+Diffusion+%26+ML+pipelines;Always+shipping%2C+always+learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=500&color=38BDF8&background=0D1117&center=true&vCenter=true&width=650&height=80&lines=Delivering+clean%2C+modern+interfaces;Java+%7C+C%2B%2B+%7C+Go;Stable+Diffusion+%26+ML+pipelines;Always+shipping%2C+always+learning" alt="Typing SVG"/>
+  <br/>
+  <img width="650" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=4" alt=""/>
 </div>
 
 <p align="center">
