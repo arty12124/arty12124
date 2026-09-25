@@ -59,22 +59,8 @@
 > 🤖 Работаю с AI и генерацией изображений: Stable Diffusion, кастомные пайплайны, ML-решения.
 > 🐍 Люблю Python: GUI, API, автоматизация — всё, что упрощает жизнь.
 
-- 🎯 **Цель:** проекты, которые радуют пользователей и приносят доход
-- 💡 **Всегда изучаю** новые технологии и подходы
-- 🌟 **Стремлюсь к совершенству** в каждой строке кода
-
-```typescript
-const arty = {
-  role: ["Developer", "AI Enthusiast", "UI Designer"],
-  stack: ["Python", "TypeScript", "React", "FastAPI"],
-  focus: "Красивые интерфейсы + практичный AI-тулинг",
-  currentlyExploring: "Stable Diffusion pipelines & ML-автоматизация",
-  motto: "Ship clean, ship often, always be learning",
-};
-```
 
 <a id="graph3d"></a>
-## 🧊 3D-график вкладов
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/arty12124/arty12124/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph"/>
